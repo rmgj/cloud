@@ -1,2 +1,2 @@
 remark:
-  msg: 添加rabbitmq刷新配置文件， 这是springcloudbus配置刷新
+  msg: 添加rabbitmq刷新配置文件， 通过configServer刷新
